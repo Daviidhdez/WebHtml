@@ -12,6 +12,7 @@ a {
 #home{
    
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 .container {
     width: 90%;
@@ -78,6 +79,7 @@ nav ul li:hover {
 #parrafos {
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 
 .txt-center {
@@ -93,6 +95,7 @@ nav ul li:hover {
 #enlaces {
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 
 .txt-azul {
@@ -108,6 +111,7 @@ nav ul li:hover {
 #listas {
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 
 /* Listas Desordenadas de varios niveles customizadas */
@@ -163,6 +167,7 @@ dt {
 #tablas {
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 
 /* TABLAS */
@@ -233,6 +238,7 @@ td.dia{
 #formularios {
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 form.registro{
     padding: 15px;
@@ -249,12 +255,14 @@ form.registro{
 #multimedia{
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 
 /* Formularios HTML5 */
 #formhtml5 {
     padding: 0 15px;
     background-color: rgb(217, 245, 184);
+    padding-top: 40px   ;
 }
 #formhtml5 form{
     width: 50%;
