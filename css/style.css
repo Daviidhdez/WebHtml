@@ -9,7 +9,10 @@ body {
 a {
     text-decoration: none;
 }
-
+#home{
+   
+    background-color: rgb(217, 245, 184);
+}
 .container {
     width: 90%;
     margin: 0 auto;
@@ -38,9 +41,9 @@ nav {
 }
 
 #content {
-    width: 78%;
+    width: 80%;
     float: right;
-    padding: 0 1%;
+    padding: 0;
 }
 
 #home {
